@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GerEstudos</string>
+
+    <array name="disciplinas">
+        <item>Banco de Dados </item>
+        <item>Algoritimo</item>
+        <item>OO</item>
+        <item>WEB</item>
+    </array>
+</resources>

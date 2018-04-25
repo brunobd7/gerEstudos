@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "464542977843",
+    "firebase_url": "https://gerestudos-1f5c4.firebaseio.com",
+    "project_id": "gerestudos-1f5c4",
+    "storage_bucket": "gerestudos-1f5c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464542977843:android:83fa979e12eadbf9",
+        "android_client_info": {
+          "package_name": "br.com.bruno.gerestudos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464542977843-sv2tdmi7ot49vk06e7oeu8gersq0r1e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsl1uiFsFRGZXPQi0cJesN8FC3y52EyZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464542977843:android:bddd137e785b051d",
+        "android_client_info": {
+          "package_name": "bruno.com.br.gerestudos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464542977843-7n8bpvquim916j3gmpmsbiha8mtc5hg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bruno.com.br.gerestudos",
+            "certificate_hash": "4e5f31ba76c00482f8802077ebc115f021458823"
+          }
+        },
+        {
+          "client_id": "464542977843-sv2tdmi7ot49vk06e7oeu8gersq0r1e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsl1uiFsFRGZXPQi0cJesN8FC3y52EyZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464542977843-sv2tdmi7ot49vk06e7oeu8gersq0r1e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
